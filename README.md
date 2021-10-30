@@ -16,5 +16,7 @@ Just run `index.html`.
 
 ### Demo <a name = "demo"></a>
 
-<img source="images/screenshot.png" alt="Screenshot">
+<p>
+  <img source="images/screenshot.png" alt="Screenshot">
+</p>
 

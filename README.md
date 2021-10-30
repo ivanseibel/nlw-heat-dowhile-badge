@@ -16,7 +16,7 @@ Just run `index.html`.
 
 ### Demo <a name = "demo"></a>
 
-<p style="text-align: center">
-  <img src="images/screenshot.png" alt="Screenshot" width="360px">
+<p>
+  <img src="images/screenshot.png" alt="Screenshot" width="280px">
 </p>
 
